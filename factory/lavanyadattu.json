@@ -1,0 +1,9 @@
+{
+	"name": "lavanyadattu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "808a60bc-97bf-4d0f-9fa1-007b9d7e7342",
+		"tenantId": "92dd2942-900f-40d0-8299-1b0eee41a190"
+	}
+}
